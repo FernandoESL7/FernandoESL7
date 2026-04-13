@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hola, soy Fernando Santacruz Lara 👋
-### Ingeniero en Computación · Coordinador de TI · Dev Full-Stack
+### Ingeniero en Computación · IT Lead · Dev Full-Stack
 
 *Zumpango, Estado de México 🇲🇽*
 
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy Ingeniero en Computación por la **UAEM**, con experiencia real en el cruce entre desarrollo de software, infraestructura de redes, DevOps y operaciones en campo. Actualmente me desempeño como **Coordinador de TI en SSL Digital SA de CV**, donde gestiono soluciones tecnológicas para clientes bancarios como BANAMEX, HSBC y Compartamos Banco en más de **125 sucursales a nivel nacional**.
+Soy Ingeniero en Computación por la **UAEM**, con experiencia real en el cruce entre desarrollo de software, infraestructura de redes, DevOps y operaciones en campo. Actualmente me desempeño como **Software Engineer en SSL Digital SA de CV**, donde gestiono soluciones tecnológicas para clientes bancarios como BANAMEX, HSBC y Compartamos Banco en más de **125 sucursales a nivel nacional**.
 
 Me apasiona construir sistemas completos: desde la base de datos hasta el frontend, pasando por la infraestructura. En mis ratos libres desarrollo **apps indie orientadas al mercado LATAM** 📱.
 
