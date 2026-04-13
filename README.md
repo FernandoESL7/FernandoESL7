@@ -82,17 +82,6 @@ Me apasiona construir sistemas completos: desde la base de datos hasta el fronte
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoESL7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Formación y certificaciones
 
 - 🎓 **Ingeniería en Computación** — Universidad Autónoma del Estado de México (UAEM)
@@ -109,7 +98,3 @@ Me apasiona construir sistemas completos: desde la base de datos hasta el fronte
 [![Email](https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.fernando3640@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square&label=Visitas+al+perfil" />
-</div>
